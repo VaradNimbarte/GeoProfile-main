@@ -35,7 +35,7 @@ Here's the updated README file specifically for **GeoProfiles** using React:
 ### Steps:
 1. Clone the repository:
    ```bash
-   [git clone https://github.com/VaradNimbarte/GeoProfile.git
+   git clone https://github.com/VaradNimbarte/GeoProfile.git](https://github.com/VaradNimbarte/GeoProfile-main.git
    cd geoprofiles
    ```
 
